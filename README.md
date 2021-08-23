@@ -1,5 +1,5 @@
 👋 Hi, I’m Filip
-👀 This is my store room for projects I've done, some time ago.
+👀 This is my store room for some projects I've done, some time ago.
 
 NOTE: I'm not professional programmer, these applications are only temporary solution to problems I had to face it when no other solution was available at this time.
 
